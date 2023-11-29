@@ -22,6 +22,7 @@ public class AppointmentScheduler {
             return true;
         } else {
             return false;
+
         }
     }
 

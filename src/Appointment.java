@@ -12,6 +12,9 @@ public class Appointment {
         this.appointmentType = appointmentType;
     }
 
+    public Appointment() {
+    }
+
     public String getCustomerName() {
         return customerName;
     }
